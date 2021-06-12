@@ -2,7 +2,7 @@
 # Bem vindo ao Apocalipse Brasileiro
 
 #### Aluno: [Rodrigo Link Federizzi](https://github.com/rodrigolink)
-#### Orientadores: [Manoela Kohler](https://github.com/manoelakohler) e [Felipe Borges](https://github.com/link_do_github).
+#### Orientadores: [Manoela Kohler](https://github.com/manoelakohler) e [Felipe Borges](https://github.com/FelipeBorgesC).
 
 ---
 
